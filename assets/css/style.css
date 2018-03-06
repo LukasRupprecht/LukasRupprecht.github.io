@@ -1,0 +1,35 @@
+ul.ul-edu li {
+  position: relative;
+  padding: 0px 0px 0px 0px;
+}
+
+ul.ul-edu li .description p {
+  margin: 0;
+}
+
+ul.ul-edu li .description p.course {
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.95rem;
+  margin-top: -10px;
+  color: rgba(0,0,0,0.6);
+}
+
+.publication {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.publication .authors {
+  line-height: normal;
+  font-style: normal;
+  color: #3170A5;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+.publication .title {
+  font-style: bold;
+  margin-right: 5px;
+}
