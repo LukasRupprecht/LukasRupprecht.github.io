@@ -24,12 +24,17 @@ ul.ul-edu li .description p.institution {
 .publication .authors {
   line-height: normal;
   font-style: normal;
-  color: #3170A5;
-  margin-right: 5px;
-  margin-left: 10px;
+}
+
+.publication .venue {
+  line-height: normal;
+  font-weight: bold;
 }
 
 .publication .title {
-  font-style: bold;
+  font-weight: bold;
+  color: #3170A5;
   margin-right: 5px;
+  margin-right: 5px;
+  margin-left: 10px;
 }
