@@ -8,6 +8,7 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
+  font-size: 14pt
 }
 
 ul.ul-edu li .description p.institution {
@@ -17,8 +18,10 @@ ul.ul-edu li .description p.institution {
 }
 
 .publication {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: left;
+  font-size: 12pt;
+  line-height: 150%;
 }
 
 .publication .authors {
@@ -34,7 +37,18 @@ ul.ul-edu li .description p.institution {
 .publication .title {
   font-weight: bold;
   color: #3170A5;
-  margin-right: 5px;
-  margin-right: 5px;
-  margin-left: 10px;
+}
+
+.publication-year {
+  text-align: left;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.general-heading {
+  text-align: left;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  font-weight: bold;
 }
