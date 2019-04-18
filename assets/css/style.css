@@ -19,9 +19,10 @@ ul.ul-edu li .description p.institution {
 
 .publication {
   margin-bottom: 10px;
-  text-align: left;
+  text-align: justify;
   font-size: 12pt;
   line-height: 150%;
+  hyphens: auto;
 }
 
 .publication .authors {
