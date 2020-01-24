@@ -33,6 +33,7 @@ ul.ul-edu li .description p.institution {
 
 .pcmember a {
   border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+  font-weight: bold;
 }
 
 .publication {
