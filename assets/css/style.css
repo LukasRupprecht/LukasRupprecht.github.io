@@ -72,3 +72,8 @@ ul.ul-edu li .description p.institution {
   margin-top: -20px;
   font-weight: normal;
 }
+
+.intro a {
+  border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+}
+
